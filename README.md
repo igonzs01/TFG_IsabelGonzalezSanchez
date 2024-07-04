@@ -9,4 +9,4 @@ Además, también va a realizar las medias de las columnas con la condición de 
 - graficasDatos.ipynb: este código permite generar gráficas de los datos de los archivos CSV. El usuario debe indicar la ruta y el nombre del archivo que deesea leer para, a continuación, indicar de qué columna quiere que se generen las gráfica.
 Se puede, o bien, hacer una sola gráfica de las tres columnas relacionadas con los datos registrado de movimientos (ACCEL_LN, GYRO_MPU9150, ACCEL_LSM303DLHC, MAG_LSM303DLHC) y en este caso se mostrarían los ejes "x", "y" y "z" o una gráfica de una de las otras columnas de datos.
 
-
+Además, se pueden encontrar varios archivos CSV con datos de diferentes usuarios grabados con la pulsera Shimmer. Estos archivos se pueden emplear para comprobar tanto el correcto funcionamiento del código como para observar los resultados de cada uno de ellos.
